@@ -23,14 +23,22 @@ ul {
     border-bottom: 1px solid #e7e9fc;
 }
 
-.header-logo {
+.header-logo,
+.link-end {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
     text-decoration: none;
+}
+.header-logo {
     color: #2e2f42;
+}
+
+.web {
+    color: #4d5ae5;
 }
 
 .web {
@@ -103,7 +111,7 @@ button {
     background-color: #f4f4fd;
 }
 
-.end-link,
+.link-end,
 .end-link-discription {
     color: #f4f4fd;
 }
@@ -178,5 +186,42 @@ button {
         letter-spacing: 0.02em;
 }
 .end-link-discription {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+.address-link {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+}
+
+.address-link:hover,
+.address-link:focus {
+    color: #404bbf;
+}
+.photos-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.photos-name-portfolio {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.photos-discription-portfolio {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
