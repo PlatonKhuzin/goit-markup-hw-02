@@ -1,0 +1,133 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2e2f42;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.header-adress {
+    font-style: normal;
+}
+
+.header-list,
+.adress-list {
+    list-style: none;
+}
+
+.Web {
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+}
+.header-logo{
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+    font-family: "Raleway", sans-serif;
+}
+
+.adress-list a {
+    color: #434455;
+}
+
+.main-button {
+  background: #2e2f42;
+}
+
+.titel-name {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+}
+
+button {
+    background-color: #4d5ae5;
+    color: #ffffff;
+}
+
+.section-photos {
+    background-color: #f4f4fd;
+}
+
+.end-link,
+.end-link-discription {
+    color: #f4f4fd;
+}
+.main-list{
+    list-style: none;
+}
+.main-item-discription {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.photos-titel{
+    text-align: center;
+}
+.list-photos{
+    list-style: none;
+}
+.photos-name{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+.photos-discription{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+.part-info-photos{
+    background-color: #ffffff;
+}
+.end-link-discription{
+    color: #ffffff;
+}
+.footer{
+    background-color:#2e2f42;
+}
+.link-end{
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        font-family: "Raleway", sans-serif;
+        color: #ffffff;
+}
+.photos-titel-portfolio{
+    text-align: center;
+}
+.photos-name-portfolio {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.photos-discription-portfolio{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+.part-info-photos-portfolio{
+    list-style: none;
+}
